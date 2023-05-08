@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shorts - News in few Words</string>
+    <string name="shorts_feeds">Shorts Feeds</string>
+    <string name="sub_description">Sub Description</string>
+    <string name="content">Content</string>
+    <string name="read_full">Read full</string>
+</resources>
